@@ -71,6 +71,6 @@ FIM
 ________________________________________________________________________________________
 
 ## Autor
-Aluno: Luis Filipe Silva Vasconcelos
-Disciplina: Técnicas de Desenvolvimento de Algoritmos
-Curso: Análise e Desenvolvimento de Sistemas
+* Aluno: Luis Filipe Silva Vasconcelos
+* Disciplina: Técnicas de Desenvolvimento de Algoritmos
+* Curso: Análise e Desenvolvimento de Sistemas
